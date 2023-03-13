@@ -12,5 +12,5 @@ There is an forever increasing number of paths that Compsci can take you down th
 3. Data Scientist
 - Otherwise wouldn't be taking Statistics would I 
 #### Artificial Intelligence
-One short Youtube series actaully that Piqued my interest was [Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+One short Youtube series actaully that piqued my interest was [Age of AI](https://www.youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) featuring Robert Downey Jr and Will.I.Am discussing a whole range of topics, concerning Artificial Intelligence
 ![AgeofAI](https://user-images.githubusercontent.com/126557950/224606272-4a010fd8-7f7f-4b6c-8098-a07b8cfbc6ef.jpg)
